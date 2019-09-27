@@ -4,4 +4,4 @@ git clone https://github.com/nicoleus/leus
 
 cd leus
 
-python2 
+python2 crow.py
