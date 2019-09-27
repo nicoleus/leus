@@ -36,7 +36,10 @@ def banner():
     os.system("echo '| II    II  II      II  II   //        II        II              /// ' | lolcat") 
     os.system("echo '| II    II  II      II  II   ///       II        II              /// ' | lolcat")
     os.system("echo '| II    II  //IIIIII//  II     /////// II        II   ////////////// ' | lolcat")
-    os.system("echo '|         BY: NICOLEUS F SITORUS 
+   os.system("echo '|  BY: NICOLEUS F SITORUS' | lolcat")
+    os.system("echo '|  Team: Batak Cyber Team' | lolcat")
+    os.system("echo '|  Youtube: adysitorusady' | lolcat")
+    os.system("echo '|  Facebook: Nicoleus Sitorus' | lolcat")
     print m+"+------------------------------------------------+ "
     print h+"   [\033[97m1\033[92m] \033[96mEyes Gay",h+"      [\033[97m6\033[92m] \033[96mName Lolcat"
     print h+"   [\033[97m2\033[92m] \033[96mEyes Lolcat",h+"   [\033[97m7\033[92m] \033[96mName Gay"
